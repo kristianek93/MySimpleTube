@@ -1,6 +1,5 @@
 {
     "name":  "@kristianek93/youtizentube",
-    "appName":  "YouTiZenTube",
     "version":  "0.1.0-kristian",
     "description":  "KristianBrew fork of TizenTube",
     "packageType":  "mods",
@@ -21,5 +20,8 @@
     "repository":  {
                        "url":  "https://github.com/kristianek93/MySimpleTube"
                    },
-    "license":  "GPL-3.0-only"
+    "license":  "GPL-3.0-only",
+    "appName":  "YouTiZenTube",
+    "title":  "YouTiZenTube",
+    "id":  "youtizentube.kristianek93"
 }
