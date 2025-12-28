@@ -1,6 +1,6 @@
 {
     "name":  "@kristianek93/youtizentube",
-    "version":  "0.1.0-kristian",
+    "version":  "0.1.1-kristian",
     "description":  "KristianBrew fork of TizenTube",
     "packageType":  "mods",
     "websiteURL":  "https://youtube.com/tv?additionalDataUrl=http%3A%2F%2Flocalhost%3A8085%2Fdial%2Fapps%2FYouTube",

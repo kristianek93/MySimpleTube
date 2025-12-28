@@ -1,4 +1,4 @@
-﻿const dial = require("@patrickkfkan/peer-dial");
+const dial = require("@patrickkfkan/peer-dial");
 const express = require('express');
 const cors = require('cors');
 const app = express();
